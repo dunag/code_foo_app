@@ -14,3 +14,6 @@ The user will be asked to provide the number of rows and columns in the grid, th
 
 
 Link to codepen for part 4 (Front-End): http://codepen.io/thedunag/full/QpMBeX
+
+Request uses the url provided in the sample request
+Articles and Videos results both have a count of 5.

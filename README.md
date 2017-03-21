@@ -2,7 +2,7 @@
 application / code foo IGN
 _________________________________
 
-Link to Youtube: youtube.com/
+Link to Youtube: https://youtu.be/Il6Y1fDL1ao
 
 Files uploaded to this repository:
 
